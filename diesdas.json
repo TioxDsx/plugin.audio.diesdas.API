@@ -1,10 +1,6 @@
-{"result":[
-  "prefix": "42",
-  "title": "Episode 42: Das träumen wir wirklich!",
-  "icon": "https://www.podcastaddict.com/cache/artwork/thumb/2531942",
-  "icon_png": "https://www.podcastaddict.com/cache/artwork/thumb/2531942",
-  "stream_320": "http://stream.laut.fm/mittelalter.m3u",
-  "schedule": "https://www.podcast.de/podcast/762822/",
-    }
-  ]
-}
+{"result":[{"prefix":"42",
+"title":"42 - 08.03.2021 - Das träumen wir wirklich!",
+"icon":"https://static.podcastcms.de/images/podcasts/6/762822/diesdas-podcast.png",
+"icon_png":"https://static.podcastcms.de/images/podcasts/6/762822/diesdas-podcast.png",
+"stream":"https://haxf32.podcaster.de/diesdas/media/DIESDAS42.mp3",
+"schedule":"https://haxf32.podcaster.de/diesdas.rss"}]}
