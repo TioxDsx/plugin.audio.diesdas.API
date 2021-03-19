@@ -1,1 +1,11 @@
-{"result":[{"prefix":"test","title":"test","icon":"https://assets.laut.fm/5f6393d7ffb17e4370fe74f5cfb15e95?t=_120x120","icon_png":"https://assets.laut.fm/5f6393d7ffb17e4370fe74f5cfb15e95?t=_120x120","stream_320":"https://www.youtube.com/watch?v=Ne5J4bxWypI.m3u","schedule":"https://laut.fm/rabenwind"}]}
+{
+  "prefix": "42",
+  "title": "Episode 42: Das träumen wir wirklich!",
+  "icon": "https://www.podcastaddict.com/cache/artwork/thumb/2531942",
+  "icon_png": "https://www.podcastaddict.com/cache/artwork/thumb/2531942",
+  "stream_320": "http://stream.laut.fm/mittelalter.m3u",
+  "schedule": [
+      ]
+    }
+  ]
+}
