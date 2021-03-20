@@ -1,20 +1,13 @@
 {
 	"result": [{
-		"prefix": "1",
-		"title": "Radio Record",
-		"artist": "MOSES\/EMR3YGUL\/ALEXIANE",
-		"song": "A Million on My Soul (Record Mix)",
-		"phone": "+78123271063",
+		"prefix": "5",
+		"title": "Episode 5: Twitch Bans und Stiefschwestern!",
+        "description": "test",
+		"artist": "KuchenTV/Tommys lehrreiche Lehrfilme ",
 		"icon": "https:\/\/old.radiorecord.ru\/radioapi\/svg\/rr.svg",
 		"icon_png": "https:\/\/old.radiorecord.ru\/radioapi\/stations\/st_rr@3x.png?5",
 		"new": false,
-		"has_feedback": true,
-		"feedback_text": "",
-		"stream": "http:\/\/hls.radiorecord.ru:8081\/rr\/rr\/playlist.m3u8",
-		"stream_32": "https:\/\/icecast228.ptspb.ru:8443\/rr_aac",
-		"stream_64": "https:\/\/icecast228.ptspb.ru:8443\/rr_aac_64",
-		"stream_128": "https:\/\/icecast228.ptspb.ru:8443\/rr_128",
-		"stream_320": "https:\/\/icecast228.ptspb.ru:8443\/rr_320",
+		"stream_320": "https://cdn.podigee.com/media/podcast_37987_rothaarig_und_langhalsig_episode_402787_twitch_bans_und_stiefschwestern.m4a?v=1615574838&source=feed",
 		"schedule": "http:\/\/old.radiorecord.ru\/radio\/schedule\/"
 	}, {
 		"prefix": "2",
