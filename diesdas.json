@@ -1,6 +1,34 @@
-{"result":[{"prefix":"42",
-"title":"42 - 08.03.2021 - Das träumen wir wirklich!",
-"icon":"https://static.podcastcms.de/images/podcasts/6/762822/diesdas-podcast.png",
-"icon_png":"https://static.podcastcms.de/images/podcasts/6/762822/diesdas-podcast.png",
-"stream":"https://haxf32.podcaster.de/diesdas/media/DIESDAS42.mp3",
-"schedule":"https://haxf32.podcaster.de/diesdas.rss"}]}
+{
+	"result": [{
+		"prefix": "1",
+		"title": "Radio Record",
+		"artist": "MOSES\/EMR3YGUL\/ALEXIANE",
+		"song": "A Million on My Soul (Record Mix)",
+		"phone": "+78123271063",
+		"icon": "https:\/\/old.radiorecord.ru\/radioapi\/svg\/rr.svg",
+		"icon_png": "https:\/\/old.radiorecord.ru\/radioapi\/stations\/st_rr@3x.png?5",
+		"new": false,
+		"has_feedback": true,
+		"feedback_text": "",
+		"stream": "http:\/\/hls.radiorecord.ru:8081\/rr\/rr\/playlist.m3u8",
+		"stream_32": "https:\/\/icecast228.ptspb.ru:8443\/rr_aac",
+		"stream_64": "https:\/\/icecast228.ptspb.ru:8443\/rr_aac_64",
+		"stream_128": "https:\/\/icecast228.ptspb.ru:8443\/rr_128",
+		"stream_320": "https:\/\/icecast228.ptspb.ru:8443\/rr_320",
+		"schedule": "http:\/\/old.radiorecord.ru\/radio\/schedule\/"
+	}, {
+		"prefix": "2",
+		"title": "Deep",
+		"artist": "THE BESTSELLER\/ALEX LUKYANOV",
+		"song": "Go Still",
+		"icon": "https:\/\/old.radiorecord.ru\/radioapi\/svg\/deep.svg",
+		"icon_png": "https:\/\/old.radiorecord.ru\/radioapi\/stations\/st_deep@3x.png?5",
+		"new": false,
+		"has_feedback": false,
+		"stream": "http:\/\/hls.radiorecord.ru:8081\/rr\/deep\/playlist.m3u8",
+		"stream_32": "https:\/\/icecast228.ptspb.ru:8443\/deep_aac",
+		"stream_64": "https:\/\/icecast228.ptspb.ru:8443\/deep_aac_64",
+		"stream_128": "https:\/\/icecast228.ptspb.ru:8443\/deep_128",
+		"stream_320": "https:\/\/icecast228.ptspb.ru:8443\/deep_320"
+    }]
+}
